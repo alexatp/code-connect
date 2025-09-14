@@ -1,8 +1,7 @@
-
 export default function Home() {
   return (
-      <main>
-Olá, mundo        
-      </main>
-  );
+    <main>
+      Olá mundo
+    </main>
+  )
 }
